@@ -1,1 +1,1 @@
-zap pop boom swish boing
+This plugin uses the JUCE framework for creating plugins.
