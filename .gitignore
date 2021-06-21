@@ -1,1 +1,7 @@
-**/JUCE
+**/SimpleEQ/JUCE
+**/SimpleEQ/.vs
+**/SimpleEQ/JuceLibraryCode
+**/.vs
+
+
+SimpleEQ/Builds/VisualStudio2019/
